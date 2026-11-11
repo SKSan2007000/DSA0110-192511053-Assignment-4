@@ -1,0 +1,8 @@
+$ ./run
+3.5
+4
+Account destroyed
+Senior history released
+Account destroyed
+
+[exit code: 0]

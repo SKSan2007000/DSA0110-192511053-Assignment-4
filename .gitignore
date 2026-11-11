@@ -1,0 +1,9 @@
+# C++ build files
+*.o
+*.out
+*.exe
+a.out
+*.gcda
+*.gcno
+.vscode/
+.idea/

@@ -1,0 +1,5 @@
+$ ./run
+324.00
+Highest cart: 324.00
+
+[exit code: 0]

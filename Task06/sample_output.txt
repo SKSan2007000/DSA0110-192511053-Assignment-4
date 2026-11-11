@@ -1,0 +1,13 @@
+$ ./run
+Bicycle BI-01 daily=100 rented=true
+3-day charge: 300, late fee: 200
+TwoWheeler TW-02 daily=250 rented=true
+3-day charge: 850, late fee: 200
+Car CA-03 daily=1200 rented=true
+3-day charge: 3900, late fee: 200
+ElectricCar EV-04 daily=1500 rented=true
+3-day charge: 4820, late fee: 200
+ElectricBus EB-05 daily=3000 rented=true
+3-day charge: 9600, late fee: 200
+
+[exit code: 0]

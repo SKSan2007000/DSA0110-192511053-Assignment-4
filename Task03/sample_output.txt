@@ -1,0 +1,9 @@
+$ ./run
+Person constructed
+Student constructed
+192311001 Kavya (19) Salem-636001 CSE
+Student destroyed
+Person destroyed
+Block ended
+
+[exit code: 0]

@@ -1,0 +1,4 @@
+$ ./run
+Kavya 101 CSE IT 8.5 25000
+
+[exit code: 0]
